@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 Currently Working on portfolio [portfolio.com](portfolio.com)
+- 👨‍💻 Currently Working on portfolio [waqas'portfolio](https://my-portfolio-henna-eta.vercel.app/)
 
 - 📫 How to reach me **wmunir232@gmail.com**
 
